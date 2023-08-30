@@ -251,4 +251,4 @@ Function Prototypes
     * Extracting the root node.
     * Searching for a node in a binary heap of size `n`.
 
-## Authors Mbaliyezwe Ndzaba- https://github.com/imbaliyezwe/binary_trees
+## Authors Mbaliyezwe Ndzaba - https://github.com/imbaliyezwe/binary_trees
